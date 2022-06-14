@@ -1,4 +1,4 @@
-# Learn React: Goal Management App
+# Learn React: Expense Management App
 
 ##### Course:
 
